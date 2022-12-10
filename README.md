@@ -1,6 +1,6 @@
-# tab_sample
+# Flutter Banking
 
-A new Flutter project.
+A Reimagined Banking Experience using Flutter.
 
 ## Getting Started
 
